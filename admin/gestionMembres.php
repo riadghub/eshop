@@ -30,10 +30,6 @@
                                 <a href="gestionMembres.php?action=update&id=' . $membre['id'] . '" class="btn btn-secondary m-1">
                                 <i class="bi bi-pencil-square"></i>
                                 </a>
-
-                                <a href="gestionMembres.php?action=show&id=' . $membre['id'] . '" class="btn btn-info m-1">
-                                <i class="bi bi-bag-fill"></i>
-                                </a>
                             </td>';
         }
         $showTable .= "</tbody></table>";
