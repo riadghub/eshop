@@ -7,6 +7,7 @@ session_start(); // On démarre la session
 $erreur = ''; // Variable qui contiendra les messages d'erreur
 $validation = ''; 
 
-define("URL","http://localhost/konexio/php/11-Projet/"); // Constante qui contient l'URL du site
+// define("URL","http://localhost/konexio/php/11-Projet/"); // Constante qui contient l'URL du site
+define("URL","https://myfewshop.herokuapp.com/";
 
-define("RACINE_SITE",$_SERVER['DOCUMENT_ROOT'] ."/konexio/php/11-Projet/"); // Constante qui contient le chemin du site
+//define("RACINE_SITE",$_SERVER['DOCUMENT_ROOT'] ."/konexio/php/11-Projet/"); // Constante qui contient le chemin du site
