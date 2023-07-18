@@ -1,0 +1,14 @@
+{
+    "name": "riad.ea/eshop-main",
+    "autoload": {
+        "psr-4": {
+            "RiadEa\\EshopMain\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Riad"
+        }
+    ],
+    "require": {}
+}
